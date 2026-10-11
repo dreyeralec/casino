@@ -1,1 +1,20 @@
-This is the full casino app built with Django for saving users and balances across games/play sessions.
+
+# Casino
+
+Casino with multiple casino games fully playable from the browser. Player balances are saved across games/sessions via Django backend.
+
+## Games
+
+```text
+Roulette
+
+Blackjack
+
+Classic Slots
+
+Slots
+
+Minesweep
+
+Horse Racing
+```
